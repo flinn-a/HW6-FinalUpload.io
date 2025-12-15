@@ -53,6 +53,7 @@ For this question, we first did some data management to extract the wanted infor
 Visualization 1
 {% include crime_volume.html %}
 
+
 Visualization 2
 {% include top_5_crime_trends.html %}
 
