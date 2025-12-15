@@ -1,4 +1,4 @@
-c# Welcome to My Example Page
+# Welcome to My Example Page
 
 This is a website built entirely with GitHub Pages and Markdown!
 
