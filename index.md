@@ -55,7 +55,7 @@ Visualization 1
 
 
 Visualization 2
-{% include top_5_crime_trends.html %}
+{% include top_5_crime_trends.html_1 %}
 
 ###Data Preparation Steps: 
 * Data set was grouped by “Year”.
